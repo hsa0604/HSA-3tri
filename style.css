@@ -74,15 +74,9 @@ nav a:hover {
     transition: transform 0.1s;
 }
 
-
-
-
 .graficos-container {
     margin: 5rem;
 }
-
-
-
 
 .graficos-container__texto {
     font-size: 1.3rem;
@@ -91,14 +85,11 @@ nav a:hover {
     border: var(--secondary-color) solid 2px;
 }
 
-
-
-
 span {
     font-weight: bold;
     color: var(--secondary-color);
 }
-/*Agora vamos estilizar o Footer*/
+
 footer {
     display: flex;
     align-items: center;
@@ -112,5 +103,3 @@ footer {
     /*margem superior*/
     margin-top: 2rem;
 }
-
-
