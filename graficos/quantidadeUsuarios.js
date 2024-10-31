@@ -14,7 +14,7 @@ async function quantidadeUsuariosPorRede() {
             }
         }
     ]
-        plot_bgcolor: getCSS('--bg-color'),
+        plot_bgcolor: getCSS('--secondary-color'),
         paper_bgcolor: getCSS('--bg-color')
     }
     const grafico = document.creatElement('div')
